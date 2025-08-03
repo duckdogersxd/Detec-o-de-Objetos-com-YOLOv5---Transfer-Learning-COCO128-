@@ -22,9 +22,7 @@ A proposta faz parte de um desafio prático de visão computacional, onde o mode
 
 - Dataset: COCO128 (128 imagens com 80 classes)
 - Modelo base: `yolov5s.pt`
-- Classes de interesse: `person` e `dog`
 - Treinamento por 5 épocas com batch size 16
-- Arquivo final de pesos salvo em `runs/train/yolov5_fullcoco/weights/best.pt`
 
 ---
 
