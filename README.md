@@ -18,20 +18,6 @@ A proposta faz parte de um desafio prático de visão computacional, onde o mode
 
 ---
 
-## 📁 Estrutura do Projeto
-📦 yolov5/  
-┣ 📂 coco128/  
-┃ ┣ 📂 images/train2017/  
-┃ ┗ 📂 labels/train2017/  
-┣ 📂 runs/train/yolov5_fullcoco/  
-┃ ┗ 📜 best.pt  
-┣ 📂 runs/detect/exp/  
-┃ ┗ 📸 imagens com predições  
-┣ 📜 data/mydata.yaml  
-┗ 📜 notebook.ipynb  
-
----
-
 ## 🧪 Descrição do Treinamento
 
 - Dataset: COCO128 (128 imagens com 80 classes)
